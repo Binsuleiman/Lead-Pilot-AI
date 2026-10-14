@@ -1,0 +1,6 @@
+{
+  "name": "LeadPilot AI",
+  "description": "Autonomous AI employee that finds, researches, qualifies, and prepares business leads for outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
